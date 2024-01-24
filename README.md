@@ -14,7 +14,7 @@ Several JavaScript files (webgl-utils.js, initShaders.js, MV.js and ring.js) are
 The canvas element is given the ID "gl-canvas" and its dimensions are 512x512 pixels.
 
 - JavaScript Section:
-- 
+  
 Global Variables:
 
 gl: WebGL rendering context.
